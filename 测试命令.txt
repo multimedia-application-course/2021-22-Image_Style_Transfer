@@ -1,0 +1,1 @@
+python neural_style.py --content_img lion.jpg --style_imgs starry-night.jpg --max_size 620 --max_iterations 100 --device /cpu:0 --verbose --style_imgs_weights 0.5 0.5
